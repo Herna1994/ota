@@ -1,6 +1,27 @@
 {
   "updates": [
     {
+      "date": "2023-11-10",
+      "datetime": "1699571464",
+      "filename": "aospa-uvite-alpha-oneplus7pro-20231109.zip",
+      "delta": "",
+      "delta_sha256": "",
+      "url": "https://pixeldrain.com/api/file/35gC2DZb",
+      "recovery_sha256": "f3b583266ce31396bd5bd2c119f67dfba6d92e34ae454241cf75b0cd09574dcd",
+      "fastboot": "",
+      "fastboot_sha256": "",
+      "mirror": "",
+      "telegram": "",
+      "id": "uvite-alpha-1",
+      "size": "1905764223",
+      "build_type": "Alpha",
+      "version_code": "2",
+      "version": "Uvite",
+      "android_version": "14",
+      "android_spl": "2023-11-05",
+      "changelog_device": "Source update"
+    },
+    {
       "date": "2023-11-03",
       "datetime": "1696748400",
       "filename": "aospa-topaz-7-oneplus7-20231008.zip",
