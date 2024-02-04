@@ -4,7 +4,7 @@
             "version": "Uvite",
             "version_code": "2",
             "build_type": "Alpha",
-            "id": "",
+            "id": "2022-05-06-pa-sapphire-beta",
             "changelog_main": "Updated to November SPL, Added wireless reverse charging, Fixed smoothness issues, Improved Glyphs performance, Check for proximity on single double tap and pickup, Fixed offline charging, Updated vendor code to NothingOS 1.5.4, Enabled native carried video calling for Airtel India"
         },
         {
