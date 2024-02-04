@@ -5,7 +5,7 @@
             "version_code": "2",
             "build_type": "Alpha",
             "id": "",
-            "changelog_main": "This update adds stability improvements, as well as fixes critical bugs. Learn more at paranoidandroid.co/changelog"
+            "changelog_main": "Updated to November SPL, Added wireless reverse charging, Fixed smoothness issues, Improved Glyphs performance, Check for proximity on single double tap and pickup, Fixed offline charging, Updated vendor code to NothingOS 1.5.4, Enabled native carried video calling for Airtel India"
         },
         {
             "version": "Topaz",
